@@ -1,4 +1,13 @@
-### Hi there, I'm Asim Ali - [website] 👋
+```
+
+▄  █ ▄███▄   █    █    ████▄ 
+█   █ █▀   ▀  █    █    █   █ 
+██▀▀█ ██▄▄    █    █    █   █ 
+█   █ █▄   ▄▀ ███▄ ███▄ ▀████ 
+   █  ▀███▀       ▀    ▀      
+  ▀                           
+```
+### I'm Asim Ali - [website] 👋
 
 [![Website](https://img.shields.io/website?label=asimali.net&style=for-the-badge&url=https%3A%2F%2Fasimali.net)](https://asimali.net)
 
