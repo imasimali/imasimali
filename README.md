@@ -16,7 +16,7 @@
 - 🔭 I’m currently working Freelance
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Python and NodeJS Projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything.
 - 📫 How to reach me: hi [at] asimali.net
 
