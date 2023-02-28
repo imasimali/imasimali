@@ -7,9 +7,6 @@
    █  ▀███▀       ▀    ▀
   ▀
 ```
-
-### I'm Asim Ali - [website] 👋
-
 ## I'm a Full-stack Web Developer and Cloud Infrastructure Engineer!!
 
 - 🔭 I’m currently working Freelance
