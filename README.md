@@ -16,6 +16,8 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: hi [at] asimali.net
 
+<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=imasimali-github" >
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://asimali.net#gh-light-mode-only)
