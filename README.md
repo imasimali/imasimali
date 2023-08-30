@@ -1,20 +1,24 @@
-```
+<h1 align="center">Hi 👋, I'm Asim Ali</h1>
 
-▄  █ ▄███▄   █    █    ████▄
-█   █ █▀   ▀  █    █    █   █
-██▀▀█ ██▄▄    █    █    █   █
-█   █ █▄   ▄▀ ███▄ ███▄ ▀████
-   █  ▀███▀       ▀    ▀
-  ▀
-```
-## I'm a Full-stack Web Developer and Cloud Infrastructure Engineer!!
+<h2>Who's me 🤔?</h2>
 
-- 🔭 I’m currently working Freelance
-- 🌱 I’m currently learning Svelte and Web3
-- 👯 I’m looking to collaborate on Python and NodeJS Projects
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 💬 Ask me about anything.
-- 📫 How to reach me: hi [at] asimali.net
+Let me write quickly about myself:
+
+* 🥇 Computer Engineer by Degree and Software Developer by Passion.
+* 🔮 Organizing the Web with ReactJS & NodeJS ( Involed in migrations ).
+* 🎨 Enjoy designing applications using MERN Stack.
+* 👯 Looking to collaborate on Web3 and NodeJS Projects.
+* 🥽 Enthusiast in WEB3 and LLMs like GPT.
+* ✨ Full-time coder and part-time adventure seeker.
+* 💬 Ask me about anything.
+* 📫 How to reach me: hi [at] asimali.net
+
+<h2>Tech Stack 🛠️:</h2>
+
+* 👉 React | Redux | Javascript | Typescript
+* 👉 Django | Flask | Next.js | NEST.js
+* 👉 MySQL | MongoDB | PostgreSQL
+* 👉 NGINX | Docker | AWS
 
 <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=imasimali-github" >
 
