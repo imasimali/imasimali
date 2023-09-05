@@ -5,18 +5,14 @@
 Let me write quickly about myself:
 
 * 🥇 Computer Engineer by Degree and Software Developer by Passion.
-* 🔮 Organizing the Web with ReactJS & NodeJS ( Involed in migrations ).
-* 🎨 Enjoy designing applications using MERN Stack.
-* 👯 Looking to collaborate on Web3 and NodeJS Projects.
-* 🥽 Enthusiast in WEB3 and LLMs like GPT.
-* ✨ Full-time coder and part-time adventure seeker.
-* 💬 Ask me about anything.
+* 🔮 Organizing the Web with ReactJS & NodeJS Or MERN Stack (Involved in migrations).
+* 👯 Looking to collaborate on Web3 and LLM or GPT Projects.
 * 📫 How to reach me: hi [at] asimali.net
 
 <h2>Tech Stack 🛠️:</h2>
 
 * 👉 React | Redux | Javascript | Typescript
-* 👉 Django | Flask | Next.js | NEST.js
+* 👉 Node | Next | NEST | Django
 * 👉 MySQL | MongoDB | PostgreSQL
 * 👉 NGINX | Docker | AWS
 
