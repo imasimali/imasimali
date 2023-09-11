@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Asim Ali</h1>
+<h1 align="left">Hi, It's me Asim Ali 👋</h1>
 
-<h2>Who's me 🤔?</h2>
-
-Let me write quickly about myself:
+<h2>About Me 👨🏻‍💻:</h2>
 
 * 🥇 Computer Engineer by Degree and Software Developer by Passion.
 * 🔮 Organizing the Web with ReactJS & NodeJS Or MERN Stack (Involved in migrations).
