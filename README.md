@@ -2,17 +2,17 @@
 
 <h2>About Me 👨🏻‍💻:</h2>
 
-* 🥇 Computer Engineer by Degree and Software Developer by Passion.
-* 🔮 Organizing the Web with ReactJS & NodeJS Or MERN Stack (Involved in migrations).
-* 👯 Looking to collaborate on Web3 and LLM or GPT Projects.
+* 🥇 Computer Engineer by Degree and Software Engineer by Passion.
+* 🔮 Organizing the Web with ReactJS & NodeJS Or MERN/PERN Stack (Involved in migrations).
+* 👯 Looking to collaborate on Typescript, Web3 and LLM or GPT Projects.
 * 📫 How to reach me: hi [at] asimali.net
 
 <h2>Tech Stack 🛠️:</h2>
 
-* 👉 React | Redux | Javascript | Typescript
-* 👉 Node | Next | NEST | Django
-* 👉 MySQL | MongoDB | PostgreSQL
-* 👉 NGINX | Docker | AWS
+* 👉 Typescript | Javascript | React | Redux
+* 👉 Node.js | Next.js | NEST | Django
+* 👉 PostgreSQL | MongoDB | MySQL | TypeORM
+* 👉 Docker | NGINX | CI/CD | DevOps | AWS
 
 <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=imasimali-github" >
 
