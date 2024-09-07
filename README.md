@@ -9,10 +9,10 @@
 
 <h2>Tech Stack 🛠️:</h2>
 
-* 👉 Typescript | Javascript | React | Redux
-* 👉 Node.js | Next.js | NEST | Django
-* 👉 PostgreSQL | MongoDB | MySQL | TypeORM
-* 👉 Docker | NGINX | CI/CD | DevOps | AWS
+* 👉 Typescript | Javascript | React | Redux | C#
+* 👉 Node.js | Next.js | NEST | GraphQL | .NET
+* 👉 PostgreSQL | MongoDB | MySQL | Sequelize | Knex
+* 👉 Serverless | Docker | NGINX | CI/CD | DevOps | AWS
 
 <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=imasimali-github" >
 
@@ -47,18 +47,6 @@
 <img align="left" alt="Git" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="35" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="35" src="./img/terminal-dark.svg" />
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imasimali&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues" />
-
-</details>
 
 [website]: https://asimali.net
 [instagram]: https://instagram.com/imasimali
