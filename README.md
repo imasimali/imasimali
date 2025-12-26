@@ -3,15 +3,15 @@
 <h2>About Me 👨🏻‍💻:</h2>
 
 * 🥇 Computer Engineer by Degree and Software Engineer by Passion.
-* 🔮 Organizing the Web with ReactJS & NodeJS Or MERN/PERN Stack (Involved in migrations).
-* 👯 Looking to collaborate on Typescript, Web3 and LLM or GPT Projects.
+* 🔮 Organizing the Web with React.js & Node.js & MERN/PERN Stack (Involved in migrations).
+* 👯 Looking to collaborate on Typescript, Web3 and LLM Projects.
 * 📫 How to reach me: hi [at] asimali.net
 
 <h2>Tech Stack 🛠️:</h2>
 
 * 👉 Typescript | Javascript | React | Redux | C#
 * 👉 Node.js | Next.js | NEST | GraphQL | .NET
-* 👉 PostgreSQL | MongoDB | MySQL | Sequelize | Knex
+* 👉 PostgreSQL | MongoDB | MySQL | Sequelize | TypeORM
 * 👉 Serverless | Docker | NGINX | CI/CD | DevOps | AWS
 
 <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=imasimali-github" >
@@ -24,11 +24,6 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/imasimali#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/imasimali#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/m.asimali#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/m.asimali#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/asimdotid#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/asimdotid#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -49,6 +44,4 @@
 <img align="left" alt="Terminal" width="35" src="./img/terminal-dark.svg" />
 
 [website]: https://asimali.net
-[instagram]: https://instagram.com/imasimali
-[facebook]: https://facebook.com/imasimali
 [linkedin]: https://linkedin.com/in/imasimali
